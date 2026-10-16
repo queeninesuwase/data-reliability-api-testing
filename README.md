@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Overview
-
 This project explores quality assurance from two perspectives: software behaviour and data reliability.
 
 I used Python and pytest to test how a public API responds to valid, invalid and boundary inputs. I also created a synthetic job-posting dataset and used SQL to identify data-quality problems such as duplicates, missing values, invalid date relationships and incorrect salary ranges.
