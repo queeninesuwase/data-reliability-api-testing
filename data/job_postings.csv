@@ -1,0 +1,606 @@
+job_id,company_name,job_title,location,posted_date,closing_date,salary_min,salary_max
+JOB0001,Delta Finance,Data Engineer,Kigali,2026-06-13,2026-06-27,31639,54663
+JOB0002,Jambo Logistics,Frontend Engineer,Nairobi,2026-07-08,2026-07-21,74348,85045
+JOB0003,Insight Labs,Software Engineer,Cape Town,2026-01-08,2026-01-20,44328,64575
+JOB0004,Jambo Logistics,Product Manager,Nairobi,2026-02-20,2026-03-25,44446,78885
+JOB0005,FinEdge,Product Manager,Kigali,2026-07-14,2026-07-31,75753,108449
+JOB0006,GreenGrid,QA Engineer,Lagos,2026-02-25,2026-03-25,36698,47776
+JOB0007,Insight Labs,QA Engineer,Accra,2026-03-30,2026-04-22,32847,67955
+JOB0008,Jambo Logistics,Data Engineer,Remote,2026-01-21,2026-02-15,71198,99898
+JOB0009,EcoWorks,QA Engineer,Kigali,2026-01-18,2026-01-27,73336,93271
+JOB0010,,Data Analyst,Lagos,2026-01-26,2026-02-26,48217,82931
+JOB0011,BrightPath,Data Analyst,Cape Town,2026-04-01,2026-04-21,73920,96416
+JOB0012,GreenGrid,Product Manager,Remote,2026-07-06,2026-07-28,40708,76002
+JOB0013,Apex Systems,Data Engineer,Nairobi,2026-06-26,2026-07-17,74866,101118
+JOB0014,Delta Finance,Backend Engineer,Kigali,2026-03-22,2026-04-23,47546,56883
+JOB0015,CloudPeak,Product Manager,Kigali,2026-06-17,2026-07-25,55928,90999
+JOB0016,Jambo Logistics,Frontend Engineer,Lagos,2026-03-05,2026-03-28,78956,112033
+JOB0017,BrightPath,Software Engineer,Nairobi,2026-02-26,2026-03-13,63392,100735
+JOB0018,Jambo Logistics,QA Engineer,Accra,2026-02-09,2026-02-26,74596,107262
+JOB0019,Insight Labs,Software Engineer,Remote,2026-04-08,2026-05-14,64676,86152
+JOB0020,,QA Engineer,Lagos,2026-07-04,2026-07-18,74676,97162
+JOB0021,EcoWorks,Data Analyst,Cape Town,2026-04-22,2026-05-09,59735,64947
+JOB0022,Jambo Logistics,Data Engineer,Kigali,2026-01-28,2026-02-23,71874,110144
+JOB0023,Apex Systems,Backend Engineer,Accra,2026-04-06,2026-04-23,65348,105105
+JOB0024,Delta Finance,Software Engineer,Kigali,2026-01-05,2026-01-19,53788,78941
+JOB0025,BrightPath,Data Analyst,Kigali,2026-05-26,2026-06-07,35613,72462
+JOB0026,EcoWorks,Frontend Engineer,Kigali,2026-06-18,2026-07-25,66031,81852
+JOB0027,GreenGrid,Backend Engineer,Accra,2026-05-19,2026-06-07,76723,102151
+JOB0028,Delta Finance,QA Engineer,Lagos,2026-05-13,2026-06-17,37930,59176
+JOB0029,Apex Systems,QA Engineer,Remote,2026-01-06,2026-01-27,68564,87996
+JOB0030,,Backend Engineer,Nairobi,2026-06-11,2026-06-21,45003,54420
+JOB0031,Delta Finance,Data Analyst,Remote,2026-05-12,2026-06-03,48250,85062
+JOB0032,GreenGrid,Data Engineer,Nairobi,2026-05-27,2026-07-03,45925,81921
+JOB0033,GreenGrid,DevOps Engineer,Remote,2026-01-25,2026-02-28,53219,85978
+JOB0034,FinEdge,QA Engineer,Kigali,2026-01-14,2026-01-27,33972,65358
+JOB0035,CloudPeak,Frontend Engineer,Kigali,2026-02-19,2026-03-10,65146,99546
+JOB0036,Horizon Retail,QA Engineer,Nairobi,2026-03-13,2026-04-18,46371,56311
+JOB0037,CloudPeak,Frontend Engineer,Accra,2026-06-16,2026-06-23,36112,56603
+JOB0038,CloudPeak,Frontend Engineer,Nairobi,2026-05-04,2026-05-24,56282,65124
+JOB0039,GreenGrid,DevOps Engineer,Kigali,2026-04-10,2026-05-03,59819,83513
+JOB0040,Jambo Logistics,Software Engineer,Remote,2026-02-18,2026-02-13,44267,53099
+JOB0041,Insight Labs,Data Analyst,Nairobi,2026-03-22,2026-04-01,33286,69532
+JOB0042,Jambo Logistics,QA Engineer,Remote,2026-05-11,2026-05-23,42178,51668
+JOB0043,Jambo Logistics,Software Engineer,Cape Town,2026-03-02,2026-04-03,37856,58991
+JOB0044,FinEdge,Product Manager,Kigali,2026-01-21,2026-02-23,73081,112342
+JOB0045,GreenGrid,Data Analyst,Remote,2026-06-21,2026-07-18,45642,68049
+JOB0046,BrightPath,Software Engineer,Accra,2026-06-15,2026-07-11,59964,85684
+JOB0047,Insight Labs,Product Manager,Kigali,2026-06-09,2026-06-22,34801,53770
+JOB0048,EcoWorks,Data Analyst,Accra,2026-03-31,2026-04-11,46009,75226
+JOB0049,Apex Systems,Product Manager,Remote,2026-05-20,2026-06-15,70086,109750
+JOB0050,BrightPath,Data Analyst,Lagos,2026-01-27,2026-01-22,47332,59896
+JOB0051,Delta Finance,Product Manager,Cape Town,2026-03-14,2026-04-03,77029,104500
+JOB0052,GreenGrid,Product Manager,Nairobi,2026-05-06,2026-05-29,33329,44377
+JOB0053,CloudPeak,DevOps Engineer,Cape Town,2026-01-01,2026-01-29,38573,60740
+JOB0054,BrightPath,QA Engineer,Remote,2026-06-30,2026-08-03,66759,72392
+JOB0055,GreenGrid,Data Analyst,Nairobi,2026-02-08,2026-02-17,54196,68901
+JOB0056,Delta Finance,Data Engineer,Remote,2026-03-20,2026-04-19,32614,61063
+JOB0057,Jambo Logistics,Data Analyst,Kigali,2026-01-27,2026-02-25,66692,98324
+JOB0058,CloudPeak,Backend Engineer,Accra,2026-02-11,2026-03-01,57020,63644
+JOB0059,BrightPath,Frontend Engineer,Nairobi,2026-06-21,2026-07-13,47485,62918
+JOB0060,FinEdge,Product Manager,Kigali,2026-05-01,2026-04-26,43079,78245
+JOB0061,GreenGrid,Backend Engineer,Lagos,2026-02-27,2026-03-07,73255,90911
+JOB0062,GreenGrid,Backend Engineer,Nairobi,2026-01-18,2026-02-11,53012,91396
+JOB0063,Apex Systems,QA Engineer,Cape Town,2026-01-30,2026-02-22,41702,64099
+JOB0064,GreenGrid,QA Engineer,Accra,2026-04-22,2026-05-21,77745,103302
+JOB0065,GreenGrid,Software Engineer,Cape Town,2026-05-28,2026-06-16,46693,54601
+JOB0066,BrightPath,Backend Engineer,Cape Town,2026-05-18,2026-06-06,53869,87134
+JOB0067,Insight Labs,Product Manager,Remote,2026-03-22,2026-04-05,77169,101850
+JOB0068,Insight Labs,Data Analyst,Kigali,2026-04-15,2026-05-12,56371,80747
+JOB0069,Jambo Logistics,Product Manager,Accra,2026-04-18,2026-05-19,74388,90793
+JOB0070,Delta Finance,Frontend Engineer,Cape Town,2026-05-21,2026-05-28,100000,70000
+JOB0071,Horizon Retail,Data Engineer,Cape Town,2026-06-05,2026-07-02,60473,94425
+JOB0072,EcoWorks,Backend Engineer,Nairobi,2026-05-02,2026-05-19,73178,83735
+JOB0073,Delta Finance,Data Engineer,Kigali,2026-07-12,2026-08-03,74092,99435
+JOB0074,Jambo Logistics,QA Engineer,Accra,2026-01-07,2026-01-16,46046,82184
+JOB0075,Horizon Retail,Frontend Engineer,Kigali,2026-04-17,2026-05-06,77077,107241
+JOB0076,GreenGrid,Data Engineer,Kigali,2026-02-07,2026-02-14,79215,91200
+JOB0077,Insight Labs,Data Engineer,Nairobi,2026-06-28,2026-08-07,60444,68735
+JOB0078,Insight Labs,Backend Engineer,Accra,2026-04-27,2026-05-12,60450,100258
+JOB0079,CloudPeak,DevOps Engineer,Accra,2026-06-06,2026-07-15,57966,92189
+JOB0080,Insight Labs,DevOps Engineer,Remote,2026-03-08,2026-03-30,100000,70000
+JOB0081,EcoWorks,Data Engineer,Lagos,2026-03-03,2026-03-27,58827,68904
+JOB0082,CloudPeak,Data Analyst,Kigali,2026-03-27,2026-04-23,65399,75679
+JOB0083,BrightPath,Frontend Engineer,Accra,2026-04-09,2026-04-25,76295,95316
+JOB0084,Delta Finance,Frontend Engineer,Accra,2026-03-26,2026-05-01,57248,66328
+JOB0085,Horizon Retail,Software Engineer,Lagos,2026-07-17,2026-07-25,67728,97656
+JOB0086,Horizon Retail,Data Engineer,Lagos,2026-03-18,2026-04-18,57460,76913
+JOB0087,FinEdge,Frontend Engineer,Remote,2026-04-22,2026-05-30,31902,62386
+JOB0088,GreenGrid,Software Engineer,Nairobi,2026-02-12,2026-03-20,38364,45131
+JOB0089,CloudPeak,Software Engineer,Lagos,2026-06-14,2026-07-18,38893,74150
+JOB0090,FinEdge,Backend Engineer,Accra,2026-04-08,2026-05-05,100000,70000
+JOB0091,Horizon Retail,Software Engineer,Remote,2026-03-13,2026-04-15,46532,56899
+JOB0092,BrightPath,Software Engineer,Nairobi,2026-05-19,2026-05-29,52935,72629
+JOB0093,Delta Finance,Data Analyst,Accra,2026-03-05,2026-03-24,31335,46321
+JOB0094,Horizon Retail,Product Manager,Lagos,2026-06-21,2026-07-05,66960,86244
+JOB0095,BrightPath,Software Engineer,Lagos,2026-02-12,2026-02-26,40732,66116
+JOB0096,BrightPath,Data Engineer,Nairobi,2026-05-28,2026-06-28,55995,73992
+JOB0097,Jambo Logistics,Software Engineer,Lagos,2026-06-28,2026-07-24,74843,87776
+JOB0098,BrightPath,Backend Engineer,Nairobi,2026-05-17,2026-06-20,73353,102638
+JOB0099,FinEdge,DevOps Engineer,Remote,2026-04-18,2026-05-26,36916,70327
+JOB0100,EcoWorks,,Accra,2026-02-09,2026-03-15,41543,80736
+JOB0101,BrightPath,Product Manager,Accra,2026-04-22,2026-05-16,51122,72210
+JOB0102,FinEdge,Software Engineer,Accra,2026-03-04,2026-04-09,67345,97182
+JOB0103,FinEdge,Product Manager,Lagos,2026-03-25,2026-04-12,61952,80853
+JOB0104,Insight Labs,Data Engineer,Nairobi,2026-03-13,2026-04-06,66424,72089
+JOB0105,Horizon Retail,DevOps Engineer,Accra,2026-03-03,2026-04-05,62019,82768
+JOB0106,GreenGrid,Data Engineer,Lagos,2026-01-05,2026-01-17,49283,68805
+JOB0107,FinEdge,Frontend Engineer,Remote,2026-06-19,2026-07-19,61015,100809
+JOB0108,EcoWorks,Product Manager,Lagos,2026-05-21,2026-06-18,53056,87792
+JOB0109,FinEdge,QA Engineer,Remote,2026-03-01,2026-03-15,77270,94891
+JOB0110,Horizon Retail,,Remote,2026-05-18,2026-06-05,42552,61732
+JOB0111,BrightPath,Data Engineer,Lagos,2026-05-31,2026-07-10,69111,92657
+JOB0112,Apex Systems,Data Analyst,Lagos,2026-02-28,2026-03-30,41759,66568
+JOB0113,CloudPeak,DevOps Engineer,Nairobi,2026-01-12,2026-01-22,66264,90409
+JOB0114,Horizon Retail,Backend Engineer,Kigali,2026-01-04,2026-01-29,60762,97135
+JOB0115,BrightPath,Frontend Engineer,Accra,2026-01-14,2026-02-06,61308,73784
+JOB0116,Jambo Logistics,Product Manager,Nairobi,2026-01-19,2026-01-29,39943,54720
+JOB0117,Jambo Logistics,Data Engineer,Cape Town,2026-03-05,2026-03-19,66573,98847
+JOB0118,Jambo Logistics,Frontend Engineer,Lagos,2026-04-08,2026-05-13,59014,83501
+JOB0119,Delta Finance,Data Engineer,Lagos,2026-05-26,2026-06-05,69952,81455
+JOB0120,CloudPeak,,Kigali,2026-06-19,2026-07-01,40292,61011
+JOB0121,EcoWorks,Software Engineer,Kigali,2026-01-01,2026-02-03,59524,95320
+JOB0122,BrightPath,Data Engineer,Lagos,2026-03-15,2026-04-09,76070,110825
+JOB0123,Insight Labs,Data Engineer,Remote,2026-06-10,2026-06-29,57861,70382
+JOB0124,Apex Systems,Data Analyst,Lagos,2026-02-08,2026-03-04,39321,49000
+JOB0125,Horizon Retail,Product Manager,Remote,2026-06-02,2026-06-27,58780,71929
+JOB0126,Horizon Retail,QA Engineer,Cape Town,2026-04-14,2026-05-08,62798,100159
+JOB0127,Jambo Logistics,Product Manager,Nairobi,2026-01-11,2026-02-14,78138,104261
+JOB0128,EcoWorks,Software Engineer,Kigali,2026-01-24,2026-02-14,74190,80549
+JOB0129,EcoWorks,Data Analyst,Cape Town,2026-05-01,2026-06-10,72697,106678
+JOB0130,FinEdge,Frontend Engineer,Lagos,2026-04-22,2026-05-30,35979,71781
+JOB0131,GreenGrid,DevOps Engineer,Lagos,2026-03-24,2026-04-06,40539,67153
+JOB0132,Horizon Retail,QA Engineer,Lagos,2026-06-19,2026-07-21,79840,87244
+JOB0133,Insight Labs,Software Engineer,Remote,2026-03-06,2026-04-02,37597,69085
+JOB0134,Delta Finance,Backend Engineer,Cape Town,2026-05-19,2026-06-24,57082,65634
+JOB0135,Apex Systems,Data Engineer,Lagos,2026-07-13,2026-08-20,70986,104955
+JOB0136,Horizon Retail,QA Engineer,Nairobi,2026-05-21,2026-06-05,48876,82588
+JOB0137,EcoWorks,Software Engineer,Cape Town,2026-06-11,2026-07-03,76516,91895
+JOB0138,Horizon Retail,QA Engineer,Remote,2026-04-15,2026-04-27,44725,57160
+JOB0139,Insight Labs,Product Manager,Accra,2026-02-09,2026-03-19,76963,101090
+JOB0140,Insight Labs,Data Analyst,Accra,2026-05-04,2026-06-10,45973,80908
+JOB0141,BrightPath,Product Manager,Accra,2026-02-18,2026-03-29,78909,92855
+JOB0142,EcoWorks,Product Manager,Cape Town,2026-03-29,2026-05-07,47509,52677
+JOB0143,Insight Labs,DevOps Engineer,Lagos,2026-05-29,2026-07-06,39738,74002
+JOB0144,Delta Finance,Data Engineer,Cape Town,2026-03-27,2026-04-27,59841,85929
+JOB0145,FinEdge,DevOps Engineer,Remote,2026-04-09,2026-04-30,56920,64780
+JOB0146,Horizon Retail,Software Engineer,Kigali,2026-04-08,2026-05-09,73495,88463
+JOB0147,BrightPath,DevOps Engineer,Nairobi,2026-05-09,2026-06-06,36577,70432
+JOB0148,BrightPath,DevOps Engineer,Lagos,2026-07-04,2026-07-20,56868,71984
+JOB0149,FinEdge,Frontend Engineer,Lagos,2026-03-28,2026-04-29,72587,82850
+JOB0150,Jambo Logistics,QA Engineer,Kigali,2026-06-10,2026-07-18,65456,72808
+JOB0151,GreenGrid,QA Engineer,Remote,2026-06-11,2026-07-06,44908,55831
+JOB0152,EcoWorks,Software Engineer,Nairobi,2026-06-30,2026-07-13,59076,74978
+JOB0153,FinEdge,Frontend Engineer,Kigali,2026-03-25,2026-04-04,49226,77718
+JOB0154,CloudPeak,Data Analyst,Nairobi,2026-03-04,2026-04-13,57004,73804
+JOB0155,Horizon Retail,Data Analyst,Kigali,2026-06-06,2026-07-07,70613,91396
+JOB0156,Apex Systems,DevOps Engineer,Lagos,2026-04-29,2026-05-22,60118,81851
+JOB0157,FinEdge,Product Manager,Remote,2026-06-23,2026-07-10,34840,68789
+JOB0158,Delta Finance,Frontend Engineer,Accra,2026-04-19,2026-05-12,59939,84738
+JOB0159,Jambo Logistics,Product Manager,Remote,2026-01-28,2026-02-19,54993,83517
+JOB0160,EcoWorks,Software Engineer,Cape Town,2026-03-17,2026-03-25,73137,104076
+JOB0161,EcoWorks,Data Engineer,Cape Town,2026-06-25,2026-07-05,69741,107294
+JOB0162,Jambo Logistics,Product Manager,Remote,2026-04-01,2026-04-22,71721,89181
+JOB0163,Apex Systems,Product Manager,Accra,2026-07-13,2026-07-28,71172,82539
+JOB0164,BrightPath,Product Manager,Lagos,2026-01-09,2026-02-08,77995,91607
+JOB0165,CloudPeak,Backend Engineer,Cape Town,2026-07-11,2026-08-13,41510,59669
+JOB0166,Horizon Retail,Product Manager,Remote,2026-05-09,2026-06-02,40783,62623
+JOB0167,CloudPeak,Data Engineer,Remote,2026-03-28,2026-04-11,60692,70626
+JOB0168,BrightPath,Frontend Engineer,Nairobi,2026-07-05,2026-08-06,66524,95495
+JOB0169,EcoWorks,Frontend Engineer,Remote,2026-03-09,2026-03-23,59804,88959
+JOB0170,Horizon Retail,Software Engineer,Cape Town,2026-04-06,2026-04-19,74226,94549
+JOB0171,BrightPath,DevOps Engineer,Remote,2026-05-24,2026-06-20,69982,89489
+JOB0172,Apex Systems,Software Engineer,Lagos,2026-03-19,2026-04-21,37646,51806
+JOB0173,Insight Labs,Data Analyst,Accra,2026-05-07,2026-05-21,36369,56756
+JOB0174,Jambo Logistics,Data Analyst,Accra,2026-04-27,2026-05-27,73940,106407
+JOB0175,EcoWorks,Software Engineer,Remote,2026-06-17,2026-06-30,62069,93815
+JOB0176,Delta Finance,Backend Engineer,Nairobi,2026-04-05,2026-04-25,59057,93200
+JOB0177,Apex Systems,Frontend Engineer,Lagos,2026-06-25,2026-07-25,65682,94188
+JOB0178,Delta Finance,Software Engineer,Nairobi,2026-02-18,2026-03-04,59800,70807
+JOB0179,BrightPath,Data Engineer,Cape Town,2026-03-27,2026-04-18,38252,56700
+JOB0180,Jambo Logistics,Software Engineer,Lagos,2026-02-25,2026-03-18,51532,66202
+JOB0181,CloudPeak,QA Engineer,Remote,2026-02-07,2026-02-22,65403,86829
+JOB0182,Delta Finance,Backend Engineer,Nairobi,2026-01-07,2026-01-22,30973,59450
+JOB0183,GreenGrid,QA Engineer,Remote,2026-02-14,2026-03-09,33434,46741
+JOB0184,Insight Labs,QA Engineer,Accra,2026-01-17,2026-02-23,59378,88104
+JOB0185,Insight Labs,Product Manager,Accra,2026-05-09,2026-05-30,70311,78152
+JOB0186,GreenGrid,Frontend Engineer,Remote,2026-06-14,2026-06-22,33986,70376
+JOB0187,BrightPath,QA Engineer,Lagos,2026-01-28,2026-03-07,76687,110756
+JOB0188,EcoWorks,Backend Engineer,Accra,2026-06-05,2026-06-21,34304,47574
+JOB0189,Insight Labs,Frontend Engineer,Nairobi,2026-06-02,2026-07-12,49326,84060
+JOB0190,GreenGrid,DevOps Engineer,Kigali,2026-06-29,2026-07-13,72907,91998
+JOB0191,GreenGrid,QA Engineer,Lagos,2026-04-16,2026-05-14,59720,90851
+JOB0192,FinEdge,Data Analyst,Remote,2026-04-20,2026-05-17,73588,95292
+JOB0193,BrightPath,Frontend Engineer,Nairobi,2026-05-02,2026-05-13,35978,46572
+JOB0194,Jambo Logistics,Backend Engineer,Remote,2026-07-10,2026-08-09,38527,47457
+JOB0195,Apex Systems,Product Manager,Cape Town,2026-02-01,2026-03-06,53173,85890
+JOB0196,Delta Finance,Data Analyst,Remote,2026-03-21,2026-04-19,36789,75042
+JOB0197,Insight Labs,Backend Engineer,Nairobi,2026-05-04,2026-05-25,37092,65037
+JOB0198,GreenGrid,Software Engineer,Cape Town,2026-07-15,2026-08-08,67624,87445
+JOB0199,EcoWorks,Product Manager,Lagos,2026-06-18,2026-07-12,31897,48720
+JOB0200,Jambo Logistics,Frontend Engineer,Nairobi,2026-03-31,2026-04-07,41888,56276
+JOB0201,Delta Finance,Frontend Engineer,Accra,2026-02-06,2026-02-14,36013,75778
+JOB0202,EcoWorks,Backend Engineer,Cape Town,2026-04-27,2026-05-25,40315,69566
+JOB0203,CloudPeak,Software Engineer,Remote,2026-06-02,2026-06-14,33447,48643
+JOB0204,Horizon Retail,DevOps Engineer,Accra,2026-01-21,2026-02-14,59039,91827
+JOB0205,BrightPath,Backend Engineer,Accra,2026-03-11,2026-03-31,79475,118052
+JOB0206,Insight Labs,Product Manager,Nairobi,2026-01-29,2026-02-23,74447,111338
+JOB0207,Apex Systems,Data Engineer,Lagos,2026-02-26,2026-03-30,69277,77867
+JOB0208,FinEdge,QA Engineer,Nairobi,2026-02-24,2026-03-11,46745,70714
+JOB0209,GreenGrid,Data Engineer,Cape Town,2026-05-08,2026-06-11,41514,54980
+JOB0210,Apex Systems,Frontend Engineer,Nairobi,2026-05-24,2026-06-22,34723,65745
+JOB0211,Jambo Logistics,Frontend Engineer,Remote,2026-04-28,2026-05-09,50516,83649
+JOB0212,GreenGrid,Software Engineer,Lagos,2026-06-13,2026-07-16,48973,61521
+JOB0213,BrightPath,Frontend Engineer,Nairobi,2026-02-13,2026-03-21,75194,103908
+JOB0214,Insight Labs,QA Engineer,Accra,2026-03-04,2026-04-07,68592,99835
+JOB0215,CloudPeak,QA Engineer,Cape Town,2026-03-21,2026-04-18,44520,71347
+JOB0216,Delta Finance,Backend Engineer,Lagos,2026-06-12,2026-06-26,64773,103193
+JOB0217,CloudPeak,Product Manager,Kigali,2026-07-06,2026-07-22,45484,57221
+JOB0218,CloudPeak,DevOps Engineer,Accra,2026-02-14,2026-03-02,79821,89759
+JOB0219,FinEdge,Data Analyst,Accra,2026-07-13,2026-08-17,74638,100819
+JOB0220,EcoWorks,Software Engineer,Lagos,2026-01-18,2026-02-24,58980,83825
+JOB0221,Horizon Retail,Software Engineer,Nairobi,2026-05-10,2026-05-21,50342,85602
+JOB0222,Jambo Logistics,Frontend Engineer,Accra,2026-04-05,2026-04-30,35028,45945
+JOB0223,FinEdge,DevOps Engineer,Cape Town,2026-05-29,2026-06-07,59473,76809
+JOB0224,FinEdge,QA Engineer,Cape Town,2026-02-08,2026-02-18,59525,71308
+JOB0225,Horizon Retail,DevOps Engineer,Cape Town,2026-06-15,2026-07-03,32565,53801
+JOB0226,EcoWorks,Frontend Engineer,Accra,2026-05-14,2026-05-31,53848,83283
+JOB0227,FinEdge,QA Engineer,Lagos,2026-07-18,2026-08-15,74492,82923
+JOB0228,Jambo Logistics,Data Analyst,Lagos,2026-01-25,2026-02-25,48621,70135
+JOB0229,GreenGrid,Data Analyst,Cape Town,2026-01-21,2026-02-06,52925,78256
+JOB0230,FinEdge,Data Analyst,Remote,2026-07-01,2026-07-13,50288,79974
+JOB0231,Insight Labs,Backend Engineer,Nairobi,2026-06-29,2026-08-08,36124,68872
+JOB0232,FinEdge,DevOps Engineer,Kigali,2026-04-03,2026-04-29,41813,60850
+JOB0233,EcoWorks,QA Engineer,Cape Town,2026-02-27,2026-03-14,40154,50211
+JOB0234,Jambo Logistics,Data Analyst,Cape Town,2026-07-17,2026-08-26,32473,59543
+JOB0235,Jambo Logistics,Data Analyst,Remote,2026-04-07,2026-04-23,40633,57484
+JOB0236,Delta Finance,DevOps Engineer,Cape Town,2026-04-23,2026-05-02,56926,85800
+JOB0237,Delta Finance,Product Manager,Accra,2026-03-14,2026-04-18,45335,85331
+JOB0238,Horizon Retail,Product Manager,Accra,2026-02-19,2026-03-21,74453,108327
+JOB0239,Delta Finance,Data Analyst,Lagos,2026-05-09,2026-06-18,57437,73057
+JOB0240,Insight Labs,QA Engineer,Lagos,2026-01-14,2026-02-20,54327,66050
+JOB0241,Insight Labs,Data Analyst,Accra,2026-01-22,2026-02-08,47877,82323
+JOB0242,Apex Systems,Frontend Engineer,Nairobi,2026-01-24,2026-02-14,59565,87475
+JOB0243,GreenGrid,QA Engineer,Lagos,2026-04-12,2026-05-21,54507,74958
+JOB0244,FinEdge,Data Analyst,Kigali,2026-02-27,2026-03-07,50885,62378
+JOB0245,Horizon Retail,DevOps Engineer,Cape Town,2026-01-10,2026-02-04,60962,75057
+JOB0246,Delta Finance,Data Analyst,Cape Town,2026-01-02,2026-01-14,31245,53017
+JOB0247,EcoWorks,Data Engineer,Lagos,2026-07-06,2026-08-15,57738,70024
+JOB0248,Jambo Logistics,DevOps Engineer,Nairobi,2026-02-01,2026-02-11,45626,78139
+JOB0249,Insight Labs,Data Engineer,Remote,2026-01-29,2026-03-08,69107,75184
+JOB0250,Jambo Logistics,Backend Engineer,Kigali,2026-02-06,2026-03-03,58130,63232
+JOB0251,Insight Labs,Backend Engineer,Nairobi,2026-05-27,2026-06-29,42275,52885
+JOB0252,GreenGrid,DevOps Engineer,Nairobi,2026-05-15,2026-06-23,63267,69599
+JOB0253,Apex Systems,Backend Engineer,Nairobi,2026-06-12,2026-07-13,54464,76087
+JOB0254,Jambo Logistics,Backend Engineer,Kigali,2026-03-30,2026-04-21,78034,89827
+JOB0255,CloudPeak,DevOps Engineer,Remote,2026-01-12,2026-02-10,65783,92970
+JOB0256,Horizon Retail,Software Engineer,Lagos,2026-05-03,2026-05-21,38837,47972
+JOB0257,FinEdge,Product Manager,Cape Town,2026-02-21,2026-03-02,43072,50818
+JOB0258,Delta Finance,Product Manager,Lagos,2026-04-12,2026-05-19,46601,54000
+JOB0259,EcoWorks,QA Engineer,Lagos,2026-07-19,2026-07-29,72974,99727
+JOB0260,GreenGrid,Backend Engineer,Kigali,2026-04-22,2026-05-24,78713,112531
+JOB0261,EcoWorks,QA Engineer,Remote,2026-05-08,2026-06-15,54074,93105
+JOB0262,Insight Labs,Product Manager,Lagos,2026-04-19,2026-05-01,58220,75046
+JOB0263,EcoWorks,DevOps Engineer,Cape Town,2026-01-27,2026-02-08,51490,75865
+JOB0264,FinEdge,DevOps Engineer,Nairobi,2026-07-03,2026-08-06,40921,75012
+JOB0265,EcoWorks,Software Engineer,Nairobi,2026-07-06,2026-08-04,70294,103798
+JOB0266,CloudPeak,Software Engineer,Kigali,2026-06-21,2026-07-23,53809,92434
+JOB0267,BrightPath,Data Engineer,Remote,2026-06-05,2026-07-10,32280,45552
+JOB0268,Jambo Logistics,Data Analyst,Remote,2026-04-04,2026-05-04,55090,62212
+JOB0269,BrightPath,Data Analyst,Cape Town,2026-04-26,2026-05-26,54380,88474
+JOB0270,Delta Finance,QA Engineer,Nairobi,2026-04-04,2026-05-06,50603,73867
+JOB0271,GreenGrid,QA Engineer,Lagos,2026-07-08,2026-07-26,62705,101635
+JOB0272,Delta Finance,Product Manager,Remote,2026-07-18,2026-08-10,76139,110385
+JOB0273,BrightPath,DevOps Engineer,Kigali,2026-05-06,2026-05-25,38037,51932
+JOB0274,FinEdge,QA Engineer,Cape Town,2026-07-02,2026-08-06,35753,61697
+JOB0275,CloudPeak,Backend Engineer,Cape Town,2026-05-19,2026-06-13,49657,64979
+JOB0276,Delta Finance,DevOps Engineer,Nairobi,2026-02-27,2026-03-13,43171,57272
+JOB0277,Jambo Logistics,QA Engineer,Nairobi,2026-04-03,2026-05-03,60631,74135
+JOB0278,Insight Labs,Frontend Engineer,Accra,2026-03-21,2026-04-22,76984,113353
+JOB0279,BrightPath,DevOps Engineer,Accra,2026-05-28,2026-06-08,38213,63989
+JOB0280,Insight Labs,Data Analyst,Kigali,2026-06-24,2026-08-03,52578,65988
+JOB0281,Insight Labs,Data Analyst,Lagos,2026-04-21,2026-05-30,33631,46768
+JOB0282,FinEdge,Product Manager,Nairobi,2026-02-12,2026-03-01,51145,70921
+JOB0283,CloudPeak,Product Manager,Cape Town,2026-03-06,2026-03-25,71619,94605
+JOB0284,Jambo Logistics,Data Analyst,Kigali,2026-05-17,2026-05-29,62936,78987
+JOB0285,Apex Systems,QA Engineer,Nairobi,2026-06-18,2026-07-16,66937,74636
+JOB0286,Jambo Logistics,Frontend Engineer,Cape Town,2026-06-14,2026-07-07,72672,91487
+JOB0287,EcoWorks,DevOps Engineer,Kigali,2026-06-13,2026-06-21,62639,86622
+JOB0288,BrightPath,Software Engineer,Kigali,2026-06-25,2026-07-27,49492,84215
+JOB0289,Delta Finance,Backend Engineer,Cape Town,2026-04-23,2026-05-26,61735,97172
+JOB0290,FinEdge,Frontend Engineer,Kigali,2026-02-06,2026-03-05,77078,103004
+JOB0291,FinEdge,Data Engineer,Accra,2026-07-14,2026-08-13,63749,75707
+JOB0292,CloudPeak,QA Engineer,Nairobi,2026-02-01,2026-02-25,59464,80711
+JOB0293,Delta Finance,Data Analyst,Lagos,2026-03-16,2026-04-16,70329,102731
+JOB0294,Horizon Retail,DevOps Engineer,Accra,2026-05-28,2026-06-24,42440,57882
+JOB0295,GreenGrid,DevOps Engineer,Kigali,2026-03-20,2026-04-27,31518,42419
+JOB0296,EcoWorks,DevOps Engineer,Cape Town,2026-02-25,2026-03-26,33188,41500
+JOB0297,BrightPath,Frontend Engineer,Kigali,2026-06-17,2026-07-24,48726,54261
+JOB0298,Apex Systems,Frontend Engineer,Nairobi,2026-03-09,2026-04-08,56427,85409
+JOB0299,BrightPath,Frontend Engineer,Cape Town,2026-05-26,2026-06-14,53758,77671
+JOB0300,CloudPeak,QA Engineer,Accra,2026-04-26,2026-05-20,70844,83630
+JOB0301,CloudPeak,Data Engineer,Cape Town,2026-04-06,2026-05-04,66558,95518
+JOB0302,Apex Systems,Software Engineer,Kigali,2026-05-11,2026-06-12,62773,70411
+JOB0303,Horizon Retail,Data Analyst,Cape Town,2026-07-02,2026-07-30,61047,100081
+JOB0304,CloudPeak,Frontend Engineer,Cape Town,2026-05-12,2026-05-27,51493,77368
+JOB0305,Insight Labs,DevOps Engineer,Remote,2026-07-09,2026-08-04,68910,95954
+JOB0306,FinEdge,Backend Engineer,Remote,2026-05-25,2026-06-20,61122,67212
+JOB0307,Apex Systems,DevOps Engineer,Lagos,2026-01-29,2026-03-03,68253,93416
+JOB0308,Jambo Logistics,DevOps Engineer,Kigali,2026-06-17,2026-07-08,77277,85642
+JOB0309,Apex Systems,QA Engineer,Kigali,2026-05-15,2026-06-15,39684,60556
+JOB0310,CloudPeak,Frontend Engineer,Remote,2026-01-05,2026-02-09,50558,83003
+JOB0311,Apex Systems,Data Analyst,Cape Town,2026-02-22,2026-03-27,62887,98794
+JOB0312,Insight Labs,Frontend Engineer,Lagos,2026-02-23,2026-03-22,73399,109749
+JOB0313,Insight Labs,Backend Engineer,Remote,2026-02-14,2026-03-22,64939,92373
+JOB0314,Delta Finance,Data Engineer,Lagos,2026-07-17,2026-08-09,69981,106712
+JOB0315,EcoWorks,Data Engineer,Remote,2026-05-23,2026-06-18,44736,69240
+JOB0316,FinEdge,Product Manager,Lagos,2026-06-30,2026-08-07,50777,87221
+JOB0317,CloudPeak,Product Manager,Nairobi,2026-02-01,2026-03-04,55856,83474
+JOB0318,EcoWorks,DevOps Engineer,Kigali,2026-03-15,2026-03-27,52699,86690
+JOB0319,CloudPeak,QA Engineer,Cape Town,2026-02-21,2026-03-17,66832,89632
+JOB0320,Insight Labs,Data Engineer,Remote,2026-07-09,2026-07-31,45889,54215
+JOB0321,FinEdge,DevOps Engineer,Nairobi,2026-03-01,2026-03-11,36566,68652
+JOB0322,GreenGrid,DevOps Engineer,Accra,2026-06-24,2026-07-09,30339,45689
+JOB0323,FinEdge,Product Manager,Remote,2026-06-16,2026-07-05,79539,103363
+JOB0324,Insight Labs,Software Engineer,Kigali,2026-01-16,2026-01-28,72749,92967
+JOB0325,Horizon Retail,Data Analyst,Remote,2026-04-17,2026-05-05,32381,63398
+JOB0326,Jambo Logistics,QA Engineer,Lagos,2026-03-16,2026-03-25,30607,55162
+JOB0327,Horizon Retail,Data Analyst,Cape Town,2026-03-14,2026-04-19,72029,111390
+JOB0328,FinEdge,Data Analyst,Remote,2026-04-30,2026-05-24,42636,55018
+JOB0329,Apex Systems,Backend Engineer,Lagos,2026-04-28,2026-05-21,77094,94296
+JOB0330,GreenGrid,Backend Engineer,Nairobi,2026-05-26,2026-06-14,41501,73075
+JOB0331,Horizon Retail,Backend Engineer,Kigali,2026-04-13,2026-04-26,42109,56324
+JOB0332,Horizon Retail,Product Manager,Lagos,2026-01-02,2026-01-25,55137,75572
+JOB0333,Delta Finance,Software Engineer,Remote,2026-03-19,2026-03-26,47141,75704
+JOB0334,GreenGrid,Product Manager,Remote,2026-01-31,2026-03-08,50106,65573
+JOB0335,Delta Finance,Data Analyst,Accra,2026-01-31,2026-02-25,54087,73560
+JOB0336,GreenGrid,DevOps Engineer,Cape Town,2026-02-09,2026-03-17,79003,108488
+JOB0337,Jambo Logistics,QA Engineer,Cape Town,2026-06-20,2026-07-10,79929,101146
+JOB0338,BrightPath,QA Engineer,Nairobi,2026-04-25,2026-06-04,76122,104831
+JOB0339,CloudPeak,Backend Engineer,Cape Town,2026-05-21,2026-06-29,43248,58068
+JOB0340,Jambo Logistics,DevOps Engineer,Nairobi,2026-04-24,2026-05-08,74583,93044
+JOB0341,CloudPeak,Frontend Engineer,Accra,2026-05-11,2026-06-15,33646,68362
+JOB0342,EcoWorks,Software Engineer,Accra,2026-05-25,2026-06-04,66621,101923
+JOB0343,Jambo Logistics,QA Engineer,Nairobi,2026-03-07,2026-03-14,78877,98157
+JOB0344,Insight Labs,Software Engineer,Nairobi,2026-04-19,2026-05-18,75900,85078
+JOB0345,CloudPeak,Data Analyst,Remote,2026-05-01,2026-05-10,48814,80609
+JOB0346,Horizon Retail,Frontend Engineer,Accra,2026-07-06,2026-08-08,54540,84606
+JOB0347,BrightPath,Data Analyst,Cape Town,2026-01-21,2026-02-05,72830,100621
+JOB0348,Apex Systems,Software Engineer,Lagos,2026-04-11,2026-05-21,38345,57939
+JOB0349,Delta Finance,Data Engineer,Accra,2026-04-29,2026-06-02,64860,94716
+JOB0350,BrightPath,Software Engineer,Remote,2026-03-30,2026-04-15,48064,65416
+JOB0351,BrightPath,QA Engineer,Cape Town,2026-04-18,2026-04-26,45772,64277
+JOB0352,Delta Finance,Software Engineer,Accra,2026-01-09,2026-02-13,69176,77366
+JOB0353,Apex Systems,Data Analyst,Cape Town,2026-04-23,2026-05-14,65373,84611
+JOB0354,Jambo Logistics,Backend Engineer,Kigali,2026-03-16,2026-04-06,77940,103839
+JOB0355,Delta Finance,Frontend Engineer,Lagos,2026-03-19,2026-04-04,73267,112427
+JOB0356,GreenGrid,DevOps Engineer,Nairobi,2026-03-12,2026-03-22,66485,82962
+JOB0357,GreenGrid,Frontend Engineer,Kigali,2026-03-30,2026-04-30,64371,90259
+JOB0358,Delta Finance,Data Engineer,Lagos,2026-03-18,2026-04-18,42050,78082
+JOB0359,Insight Labs,Frontend Engineer,Accra,2026-07-01,2026-07-17,60344,69120
+JOB0360,Delta Finance,Product Manager,Kigali,2026-05-23,2026-07-02,38787,69242
+JOB0361,BrightPath,Data Engineer,Nairobi,2026-03-26,2026-04-07,59477,88795
+JOB0362,BrightPath,Data Engineer,Cape Town,2026-03-10,2026-04-10,74149,81740
+JOB0363,FinEdge,Product Manager,Nairobi,2026-07-05,2026-07-25,61417,80106
+JOB0364,Horizon Retail,Data Engineer,Remote,2026-02-24,2026-03-15,78593,91281
+JOB0365,Insight Labs,Backend Engineer,Lagos,2026-06-04,2026-06-24,55993,76677
+JOB0366,EcoWorks,Product Manager,Lagos,2026-04-08,2026-05-14,64973,93517
+JOB0367,Horizon Retail,Backend Engineer,Kigali,2026-05-12,2026-06-19,60540,72002
+JOB0368,Jambo Logistics,Data Engineer,Remote,2026-04-05,2026-05-02,57127,65123
+JOB0369,EcoWorks,Data Analyst,Kigali,2026-02-07,2026-02-15,47090,79456
+JOB0370,Horizon Retail,Backend Engineer,Lagos,2026-03-26,2026-04-16,54893,75997
+JOB0371,Horizon Retail,Data Analyst,Remote,2026-07-15,2026-08-22,77419,114570
+JOB0372,CloudPeak,Software Engineer,Cape Town,2026-04-01,2026-04-18,39172,76174
+JOB0373,Apex Systems,Frontend Engineer,Kigali,2026-01-09,2026-01-20,73792,81971
+JOB0374,Apex Systems,Data Engineer,Cape Town,2026-06-11,2026-07-02,34454,49351
+JOB0375,Horizon Retail,Software Engineer,Nairobi,2026-04-27,2026-05-27,33961,70628
+JOB0376,Insight Labs,Product Manager,Cape Town,2026-05-17,2026-06-19,30776,36872
+JOB0377,CloudPeak,QA Engineer,Nairobi,2026-03-15,2026-03-23,62913,96131
+JOB0378,Jambo Logistics,Product Manager,Lagos,2026-05-15,2026-05-31,45792,63370
+JOB0379,GreenGrid,DevOps Engineer,Cape Town,2026-03-10,2026-04-11,35178,64626
+JOB0380,Apex Systems,QA Engineer,Accra,2026-03-04,2026-03-25,49659,59942
+JOB0381,Apex Systems,Software Engineer,Remote,2026-04-08,2026-05-09,66221,102416
+JOB0382,FinEdge,QA Engineer,Cape Town,2026-02-13,2026-02-25,62758,96194
+JOB0383,EcoWorks,Software Engineer,Nairobi,2026-01-11,2026-02-01,43855,80017
+JOB0384,CloudPeak,Backend Engineer,Nairobi,2026-06-25,2026-07-19,65588,72744
+JOB0385,BrightPath,Product Manager,Kigali,2026-02-23,2026-03-11,79299,110401
+JOB0386,Insight Labs,Backend Engineer,Accra,2026-05-25,2026-06-16,67138,97641
+JOB0387,Insight Labs,Backend Engineer,Nairobi,2026-07-13,2026-07-28,75174,85313
+JOB0388,FinEdge,Frontend Engineer,Lagos,2026-01-26,2026-03-01,45213,55194
+JOB0389,Delta Finance,Backend Engineer,Cape Town,2026-01-08,2026-02-01,59527,96679
+JOB0390,BrightPath,Product Manager,Kigali,2026-04-07,2026-05-11,42172,72080
+JOB0391,CloudPeak,Frontend Engineer,Remote,2026-07-02,2026-07-13,35376,57937
+JOB0392,FinEdge,Backend Engineer,Nairobi,2026-07-20,2026-08-05,78474,109008
+JOB0393,FinEdge,Product Manager,Nairobi,2026-01-24,2026-01-31,50202,84348
+JOB0394,Horizon Retail,Frontend Engineer,Nairobi,2026-02-03,2026-02-15,42280,75524
+JOB0395,Jambo Logistics,Backend Engineer,Accra,2026-01-07,2026-01-19,53194,64293
+JOB0396,BrightPath,Data Engineer,Cape Town,2026-01-04,2026-01-29,57119,87533
+JOB0397,CloudPeak,Data Analyst,Lagos,2026-05-14,2026-05-31,74912,104863
+JOB0398,BrightPath,Data Analyst,Accra,2026-03-19,2026-04-12,62317,76880
+JOB0399,BrightPath,Backend Engineer,Lagos,2026-03-12,2026-04-14,49644,86378
+JOB0400,Horizon Retail,QA Engineer,Kigali,2026-03-05,2026-04-12,68915,86730
+JOB0401,Jambo Logistics,Frontend Engineer,Lagos,2026-03-19,2026-03-26,55932,82704
+JOB0402,EcoWorks,Backend Engineer,Cape Town,2026-04-23,2026-05-21,58220,72141
+JOB0403,CloudPeak,Frontend Engineer,Lagos,2026-06-27,2026-07-16,61392,86982
+JOB0404,FinEdge,Frontend Engineer,Lagos,2026-03-16,2026-04-23,67740,88627
+JOB0405,Jambo Logistics,Data Analyst,Remote,2026-04-11,2026-05-11,37463,55557
+JOB0406,Delta Finance,DevOps Engineer,Lagos,2026-07-16,2026-07-24,77658,112910
+JOB0407,CloudPeak,Product Manager,Kigali,2026-06-27,2026-07-08,56813,94535
+JOB0408,GreenGrid,QA Engineer,Accra,2026-03-06,2026-03-22,76873,109603
+JOB0409,Insight Labs,Frontend Engineer,Cape Town,2026-06-03,2026-07-10,68157,99424
+JOB0410,BrightPath,Data Engineer,Remote,2026-01-10,2026-02-09,75982,86551
+JOB0411,Jambo Logistics,Frontend Engineer,Lagos,2026-06-20,2026-07-19,40901,48804
+JOB0412,EcoWorks,Data Engineer,Cape Town,2026-04-21,2026-05-04,30691,42153
+JOB0413,Horizon Retail,Backend Engineer,Accra,2026-07-11,2026-08-20,66568,86053
+JOB0414,Apex Systems,DevOps Engineer,Nairobi,2026-04-29,2026-06-07,39879,67486
+JOB0415,CloudPeak,Backend Engineer,Lagos,2026-03-17,2026-04-19,35626,48232
+JOB0416,Horizon Retail,Backend Engineer,Accra,2026-03-29,2026-05-04,43557,82708
+JOB0417,FinEdge,QA Engineer,Lagos,2026-01-25,2026-03-01,77316,111967
+JOB0418,BrightPath,Data Analyst,Remote,2026-01-12,2026-01-26,31480,58963
+JOB0419,FinEdge,Frontend Engineer,Accra,2026-03-04,2026-04-13,41432,56926
+JOB0420,CloudPeak,Frontend Engineer,Accra,2026-03-01,2026-04-02,71271,88359
+JOB0421,GreenGrid,Software Engineer,Remote,2026-01-08,2026-01-27,59463,92614
+JOB0422,Jambo Logistics,QA Engineer,Cape Town,2026-02-24,2026-03-16,48241,57341
+JOB0423,Horizon Retail,QA Engineer,Lagos,2026-02-17,2026-03-19,51363,69278
+JOB0424,Jambo Logistics,Frontend Engineer,Cape Town,2026-06-21,2026-07-29,64584,90123
+JOB0425,Horizon Retail,Data Analyst,Remote,2026-04-11,2026-04-25,52801,80868
+JOB0426,CloudPeak,Backend Engineer,Nairobi,2026-06-30,2026-07-26,70270,80824
+JOB0427,FinEdge,Data Analyst,Cape Town,2026-03-03,2026-03-29,37664,54660
+JOB0428,Jambo Logistics,Frontend Engineer,Accra,2026-04-10,2026-05-13,69087,83122
+JOB0429,Insight Labs,Data Analyst,Accra,2026-02-17,2026-03-27,71648,88001
+JOB0430,Horizon Retail,Software Engineer,Lagos,2026-03-15,2026-03-30,42261,67877
+JOB0431,GreenGrid,DevOps Engineer,Accra,2026-01-03,2026-02-10,38947,56734
+JOB0432,Horizon Retail,Data Analyst,Nairobi,2026-06-25,2026-08-02,57238,91326
+JOB0433,EcoWorks,Software Engineer,Lagos,2026-05-25,2026-06-02,79876,99328
+JOB0434,Jambo Logistics,DevOps Engineer,Cape Town,2026-02-27,2026-03-24,41023,75994
+JOB0435,EcoWorks,Backend Engineer,Cape Town,2026-05-11,2026-05-25,67533,80017
+JOB0436,Insight Labs,Data Engineer,Accra,2026-07-13,2026-07-22,79807,113732
+JOB0437,Horizon Retail,Product Manager,Lagos,2026-01-27,2026-02-18,49510,56622
+JOB0438,Delta Finance,Backend Engineer,Remote,2026-01-23,2026-02-27,37693,58221
+JOB0439,Delta Finance,Data Engineer,Nairobi,2026-06-06,2026-07-10,40877,55001
+JOB0440,Jambo Logistics,Data Analyst,Lagos,2026-05-26,2026-06-24,64883,88304
+JOB0441,Insight Labs,QA Engineer,Kigali,2026-06-30,2026-07-25,48961,71481
+JOB0442,CloudPeak,Data Analyst,Kigali,2026-07-12,2026-08-14,33885,57059
+JOB0443,Horizon Retail,Data Analyst,Cape Town,2026-02-07,2026-03-06,46223,76959
+JOB0444,GreenGrid,DevOps Engineer,Nairobi,2026-06-11,2026-07-05,71144,103290
+JOB0445,EcoWorks,Backend Engineer,Accra,2026-06-12,2026-06-24,56401,95192
+JOB0446,BrightPath,DevOps Engineer,Remote,2026-05-05,2026-06-01,68139,73301
+JOB0447,Delta Finance,Frontend Engineer,Kigali,2026-06-20,2026-07-19,34150,65214
+JOB0448,FinEdge,Data Analyst,Cape Town,2026-05-07,2026-05-31,51159,74744
+JOB0449,Apex Systems,QA Engineer,Remote,2026-05-05,2026-06-02,74731,82903
+JOB0450,CloudPeak,DevOps Engineer,Accra,2026-07-20,2026-08-25,31067,44209
+JOB0451,EcoWorks,Data Analyst,Lagos,2026-01-01,2026-02-04,43259,56904
+JOB0452,FinEdge,Data Analyst,Nairobi,2026-01-24,2026-02-23,46409,56810
+JOB0453,GreenGrid,QA Engineer,Remote,2026-04-12,2026-05-08,77578,97922
+JOB0454,BrightPath,Data Analyst,Cape Town,2026-01-25,2026-02-01,43986,80234
+JOB0455,Apex Systems,Software Engineer,Remote,2026-02-27,2026-04-08,74563,108730
+JOB0456,Horizon Retail,QA Engineer,Kigali,2026-03-29,2026-04-12,57676,71338
+JOB0457,BrightPath,Backend Engineer,Lagos,2026-04-09,2026-04-21,77891,89603
+JOB0458,CloudPeak,QA Engineer,Cape Town,2026-03-18,2026-04-02,55082,68807
+JOB0459,Horizon Retail,Backend Engineer,Remote,2026-05-25,2026-06-01,69997,85752
+JOB0460,Delta Finance,QA Engineer,Nairobi,2026-02-24,2026-03-12,56981,90973
+JOB0461,FinEdge,Frontend Engineer,Lagos,2026-02-05,2026-02-19,68638,98805
+JOB0462,Delta Finance,Product Manager,Remote,2026-02-05,2026-02-27,48151,58672
+JOB0463,Jambo Logistics,Data Engineer,Remote,2026-01-07,2026-02-02,43464,82395
+JOB0464,Delta Finance,DevOps Engineer,Accra,2026-04-11,2026-05-06,72347,80923
+JOB0465,Insight Labs,Software Engineer,Lagos,2026-01-29,2026-02-20,62740,72393
+JOB0466,FinEdge,Data Analyst,Accra,2026-03-23,2026-04-07,55351,87932
+JOB0467,Apex Systems,Product Manager,Kigali,2026-07-17,2026-07-28,31093,40518
+JOB0468,EcoWorks,Frontend Engineer,Accra,2026-01-11,2026-01-21,56081,94282
+JOB0469,EcoWorks,QA Engineer,Lagos,2026-06-29,2026-07-31,35401,50407
+JOB0470,Insight Labs,Backend Engineer,Accra,2026-01-21,2026-03-01,43316,58498
+JOB0471,Delta Finance,Software Engineer,Kigali,2026-05-31,2026-06-11,50327,83998
+JOB0472,Jambo Logistics,Software Engineer,Lagos,2026-01-23,2026-02-26,37601,72313
+JOB0473,CloudPeak,Software Engineer,Kigali,2026-06-20,2026-07-08,37827,43657
+JOB0474,EcoWorks,Data Analyst,Lagos,2026-05-08,2026-06-06,64275,103171
+JOB0475,Apex Systems,Backend Engineer,Accra,2026-02-02,2026-02-26,78033,90769
+JOB0476,Jambo Logistics,QA Engineer,Accra,2026-03-11,2026-04-20,34185,56417
+JOB0477,Horizon Retail,Data Analyst,Lagos,2026-04-27,2026-06-05,53601,62234
+JOB0478,Delta Finance,Software Engineer,Nairobi,2026-02-10,2026-03-05,36743,49301
+JOB0479,FinEdge,Frontend Engineer,Kigali,2026-01-04,2026-01-26,33013,68930
+JOB0480,Delta Finance,Backend Engineer,Kigali,2026-02-15,2026-02-24,66232,98715
+JOB0481,Jambo Logistics,Backend Engineer,Nairobi,2026-04-17,2026-05-14,47777,57881
+JOB0482,Insight Labs,Software Engineer,Accra,2026-05-09,2026-05-19,41753,61379
+JOB0483,FinEdge,QA Engineer,Cape Town,2026-01-18,2026-02-23,48501,73862
+JOB0484,EcoWorks,Product Manager,Remote,2026-04-27,2026-05-04,54177,72328
+JOB0485,Jambo Logistics,DevOps Engineer,Kigali,2026-06-09,2026-07-01,60403,89538
+JOB0486,GreenGrid,Software Engineer,Kigali,2026-07-07,2026-07-29,39867,45284
+JOB0487,FinEdge,Software Engineer,Remote,2026-05-19,2026-06-17,71677,77305
+JOB0488,Insight Labs,Data Engineer,Accra,2026-04-07,2026-05-03,36812,55259
+JOB0489,BrightPath,Software Engineer,Kigali,2026-05-06,2026-05-16,39330,62668
+JOB0490,Horizon Retail,QA Engineer,Cape Town,2026-05-14,2026-06-16,75930,105341
+JOB0491,BrightPath,Software Engineer,Accra,2026-01-25,2026-03-05,38749,69593
+JOB0492,EcoWorks,Backend Engineer,Accra,2026-06-19,2026-07-04,45517,69632
+JOB0493,EcoWorks,Data Engineer,Nairobi,2026-06-29,2026-07-26,50844,85515
+JOB0494,CloudPeak,QA Engineer,Kigali,2026-02-21,2026-03-08,68319,80460
+JOB0495,BrightPath,Backend Engineer,Kigali,2026-04-26,2026-06-01,50580,82221
+JOB0496,BrightPath,QA Engineer,Kigali,2026-04-26,2026-05-22,60365,82732
+JOB0497,Delta Finance,Backend Engineer,Kigali,2026-06-25,2026-07-21,76183,83826
+JOB0498,Insight Labs,Software Engineer,Remote,2026-01-24,2026-02-15,53313,84281
+JOB0499,GreenGrid,DevOps Engineer,Cape Town,2026-03-18,2026-04-10,41394,48430
+JOB0500,BrightPath,Data Analyst,Nairobi,2026-07-11,2026-08-02,36207,71487
+JOB0501,Delta Finance,Frontend Engineer,Lagos,2026-01-04,2026-01-14,44567,58133
+JOB0502,BrightPath,Software Engineer,Nairobi,2026-06-25,2026-07-07,68163,90125
+JOB0503,FinEdge,QA Engineer,Nairobi,2026-02-20,2026-03-27,38440,49467
+JOB0504,GreenGrid,DevOps Engineer,Nairobi,2026-04-29,2026-05-09,41009,74396
+JOB0505,Delta Finance,Data Analyst,Lagos,2026-04-08,2026-05-12,41325,69521
+JOB0506,Jambo Logistics,Data Engineer,Remote,2026-03-13,2026-04-17,39740,47010
+JOB0507,Apex Systems,QA Engineer,Lagos,2026-03-17,2026-04-24,57000,93393
+JOB0508,Insight Labs,Data Engineer,Remote,2026-04-09,2026-04-24,57474,75545
+JOB0509,Horizon Retail,DevOps Engineer,Lagos,2026-05-20,2026-05-28,55067,83601
+JOB0510,EcoWorks,Data Analyst,Nairobi,2026-05-25,2026-07-03,51076,81528
+JOB0511,Apex Systems,DevOps Engineer,Cape Town,2026-03-23,2026-04-13,31920,55331
+JOB0512,Delta Finance,Data Engineer,Lagos,2026-04-02,2026-04-23,40461,52023
+JOB0513,FinEdge,Data Analyst,Kigali,2026-05-17,2026-05-27,44379,74834
+JOB0514,Jambo Logistics,Software Engineer,Remote,2026-03-02,2026-03-29,78372,106885
+JOB0515,Jambo Logistics,Data Engineer,Accra,2026-06-29,2026-07-28,67201,81513
+JOB0516,Apex Systems,QA Engineer,Nairobi,2026-05-19,2026-06-14,41505,78646
+JOB0517,Horizon Retail,Software Engineer,Lagos,2026-03-01,2026-03-22,31306,70807
+JOB0518,CloudPeak,Backend Engineer,Nairobi,2026-06-07,2026-06-26,38551,65882
+JOB0519,BrightPath,Backend Engineer,Nairobi,2026-01-06,2026-01-22,68444,82727
+JOB0520,FinEdge,Product Manager,Lagos,2026-04-06,2026-05-08,68405,80026
+JOB0521,Horizon Retail,Backend Engineer,Kigali,2026-02-04,2026-02-21,77995,111625
+JOB0522,GreenGrid,Product Manager,Remote,2026-07-01,2026-07-30,44630,61121
+JOB0523,Apex Systems,Frontend Engineer,Cape Town,2026-06-26,2026-07-21,38345,54991
+JOB0524,Jambo Logistics,Data Engineer,Remote,2026-01-09,2026-01-27,69478,95332
+JOB0525,FinEdge,QA Engineer,Kigali,2026-05-25,2026-06-07,62517,76734
+JOB0526,FinEdge,DevOps Engineer,Nairobi,2026-03-30,2026-04-26,41002,51816
+JOB0527,FinEdge,Product Manager,Nairobi,2026-03-09,2026-03-29,46353,55795
+JOB0528,Horizon Retail,Frontend Engineer,Kigali,2026-07-04,2026-07-11,33155,63447
+JOB0529,Insight Labs,Frontend Engineer,Nairobi,2026-04-16,2026-05-24,54819,82837
+JOB0530,BrightPath,Software Engineer,Lagos,2026-05-03,2026-05-24,40659,75234
+JOB0531,BrightPath,Backend Engineer,Kigali,2026-01-06,2026-02-02,47113,58976
+JOB0532,Insight Labs,QA Engineer,Lagos,2026-04-07,2026-04-24,77971,87886
+JOB0533,GreenGrid,Data Analyst,Cape Town,2026-06-02,2026-07-09,76170,83201
+JOB0534,FinEdge,Data Engineer,Kigali,2026-04-22,2026-05-09,33509,45145
+JOB0535,EcoWorks,Data Engineer,Nairobi,2026-04-15,2026-05-08,73292,96741
+JOB0536,CloudPeak,Software Engineer,Lagos,2026-01-13,2026-02-14,67471,104645
+JOB0537,Jambo Logistics,DevOps Engineer,Kigali,2026-01-01,2026-02-04,35742,60045
+JOB0538,EcoWorks,QA Engineer,Accra,2026-01-25,2026-02-02,43562,59757
+JOB0539,Horizon Retail,Product Manager,Nairobi,2026-01-30,2026-02-25,56048,91911
+JOB0540,GreenGrid,Backend Engineer,Kigali,2026-06-14,2026-07-15,42116,71431
+JOB0541,Horizon Retail,Product Manager,Kigali,2026-04-25,2026-05-04,47255,81073
+JOB0542,BrightPath,Backend Engineer,Cape Town,2026-03-10,2026-03-20,39904,51241
+JOB0543,GreenGrid,Frontend Engineer,Cape Town,2026-04-16,2026-05-07,66280,75276
+JOB0544,Horizon Retail,Product Manager,Nairobi,2026-06-25,2026-08-01,67533,87976
+JOB0545,Jambo Logistics,Data Analyst,Nairobi,2026-04-12,2026-04-21,62905,101775
+JOB0546,Delta Finance,Data Engineer,Kigali,2026-07-13,2026-08-17,41329,57284
+JOB0547,Delta Finance,Data Analyst,Cape Town,2026-01-11,2026-02-14,35135,68668
+JOB0548,BrightPath,Frontend Engineer,Cape Town,2026-03-08,2026-04-04,77651,87042
+JOB0549,Horizon Retail,Software Engineer,Remote,2026-04-12,2026-05-09,48101,87159
+JOB0550,GreenGrid,Data Analyst,Kigali,2026-06-09,2026-07-19,57498,69872
+JOB0551,EcoWorks,Backend Engineer,Accra,2026-05-26,2026-06-08,36922,48540
+JOB0552,Jambo Logistics,DevOps Engineer,Nairobi,2026-03-09,2026-04-09,72912,109735
+JOB0553,Jambo Logistics,Frontend Engineer,Nairobi,2026-02-14,2026-03-10,56409,70836
+JOB0554,Apex Systems,DevOps Engineer,Lagos,2026-04-12,2026-05-10,75253,95822
+JOB0555,EcoWorks,Product Manager,Accra,2026-04-06,2026-04-14,52142,77003
+JOB0556,EcoWorks,DevOps Engineer,Lagos,2026-06-28,2026-07-11,44939,58746
+JOB0557,Delta Finance,DevOps Engineer,Kigali,2026-03-10,2026-04-12,69647,80498
+JOB0558,FinEdge,Software Engineer,Cape Town,2026-04-15,2026-05-23,79774,118623
+JOB0559,GreenGrid,Data Analyst,Cape Town,2026-02-10,2026-02-21,50389,88602
+JOB0560,Delta Finance,Software Engineer,Kigali,2026-05-26,2026-06-03,41386,59018
+JOB0561,Delta Finance,Product Manager,Lagos,2026-01-09,2026-02-14,33313,61930
+JOB0562,Apex Systems,Data Engineer,Lagos,2026-04-29,2026-06-07,56014,69132
+JOB0563,Jambo Logistics,Backend Engineer,Lagos,2026-05-06,2026-06-10,41638,77740
+JOB0564,EcoWorks,Software Engineer,Accra,2026-02-11,2026-03-06,79083,90006
+JOB0565,Delta Finance,Data Engineer,Remote,2026-01-13,2026-01-30,67503,86548
+JOB0566,Insight Labs,Software Engineer,Remote,2026-02-22,2026-03-18,72702,104539
+JOB0567,Jambo Logistics,Software Engineer,Kigali,2026-01-03,2026-02-09,38671,55021
+JOB0568,GreenGrid,Frontend Engineer,Lagos,2026-03-06,2026-04-01,76710,99757
+JOB0569,EcoWorks,Frontend Engineer,Cape Town,2026-04-28,2026-05-21,44300,79885
+JOB0570,Insight Labs,Product Manager,Lagos,2026-01-27,2026-02-03,63522,93047
+JOB0571,FinEdge,Product Manager,Remote,2026-06-25,2026-07-08,61571,70754
+JOB0572,Delta Finance,Data Analyst,Cape Town,2026-03-25,2026-04-18,47114,71695
+JOB0573,FinEdge,Data Analyst,Remote,2026-07-15,2026-08-06,33720,65202
+JOB0574,GreenGrid,Frontend Engineer,Accra,2026-01-07,2026-02-14,49372,71373
+JOB0575,FinEdge,Data Engineer,Remote,2026-07-08,2026-07-17,68209,85655
+JOB0576,Insight Labs,Product Manager,Kigali,2026-05-17,2026-06-23,74031,102525
+JOB0577,Horizon Retail,Data Analyst,Remote,2026-06-18,2026-07-06,49253,60649
+JOB0578,BrightPath,Data Engineer,Lagos,2026-03-08,2026-03-26,74545,101541
+JOB0579,FinEdge,Product Manager,Cape Town,2026-02-27,2026-03-25,57556,84269
+JOB0580,Apex Systems,QA Engineer,Accra,2026-03-17,2026-04-22,37718,73555
+JOB0581,Insight Labs,Product Manager,Accra,2026-02-19,2026-03-30,37852,67865
+JOB0582,FinEdge,Frontend Engineer,Cape Town,2026-01-14,2026-01-30,39002,57128
+JOB0583,BrightPath,DevOps Engineer,Lagos,2026-04-28,2026-05-14,50734,67553
+JOB0584,Apex Systems,DevOps Engineer,Lagos,2026-06-11,2026-06-29,50539,59340
+JOB0585,Horizon Retail,QA Engineer,Kigali,2026-02-23,2026-03-12,67767,83150
+JOB0586,GreenGrid,Frontend Engineer,Accra,2026-06-07,2026-07-11,71516,104657
+JOB0587,Delta Finance,Backend Engineer,Nairobi,2026-04-09,2026-04-16,32472,72453
+JOB0588,Apex Systems,Data Engineer,Kigali,2026-03-24,2026-05-03,42489,48663
+JOB0589,BrightPath,Frontend Engineer,Cape Town,2026-06-27,2026-07-26,50453,63902
+JOB0590,Apex Systems,Product Manager,Lagos,2026-05-31,2026-06-26,40945,50223
+JOB0591,FinEdge,Frontend Engineer,Remote,2026-04-27,2026-06-06,69083,108431
+JOB0592,Delta Finance,Data Analyst,Accra,2026-02-04,2026-03-04,62124,90667
+JOB0593,Delta Finance,Software Engineer,Cape Town,2026-01-05,2026-01-26,44701,58299
+JOB0594,Apex Systems,Frontend Engineer,Remote,2026-05-10,2026-05-27,38071,67095
+JOB0595,BrightPath,Software Engineer,Nairobi,2026-03-07,2026-03-17,68923,77066
+JOB0596,GreenGrid,QA Engineer,Cape Town,2026-06-26,2026-07-10,57313,91431
+JOB0597,Delta Finance,Software Engineer,Lagos,2026-03-06,2026-04-12,75997,91032
+JOB0598,EcoWorks,Data Analyst,Accra,2026-04-18,2026-05-01,73416,112514
+JOB0599,EcoWorks,QA Engineer,Nairobi,2026-01-27,2026-03-07,77105,89820
+JOB0600,EcoWorks,Data Engineer,Lagos,2026-05-08,2026-05-27,69911,88001
+JOB0005,FinEdge,Product Manager,Kigali,2026-07-14,2026-07-31,75753,108449
+JOB0015,CloudPeak,Product Manager,Kigali,2026-06-17,2026-07-25,55928,90999
+JOB0025,BrightPath,Data Analyst,Kigali,2026-05-26,2026-06-07,35613,72462
+JOB0035,CloudPeak,Frontend Engineer,Kigali,2026-02-19,2026-03-10,65146,99546
+JOB0045,GreenGrid,Data Analyst,Remote,2026-06-21,2026-07-18,45642,68049
